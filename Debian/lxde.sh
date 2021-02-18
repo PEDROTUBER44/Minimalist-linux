@@ -5,7 +5,7 @@ sudo apt update ;
 
 sudo apt upgrade -y ;
 
-sudo apt install exfat-utils network-manager xorg lightdm pulseaudio lxde-core lxterminal lxrandr lxsession-default-apps lxappearance pcmanfm-desktop-pref xscreensaver-properties sudo system-config-printer policykit-1 libpolkit-qt5-1-dev --no-install-recommends -y ;
+sudo apt install exfat-utils network-manager xorg lightdm pulseaudio lxde-core lxterminal sudo firefox-esr pcmanfm --no-install-recommends -y ;
 
 sudo apt purge nano -y ;
 
